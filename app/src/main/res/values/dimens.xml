@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="dialog_width">350dp</dimen>
+    <dimen name="dialog_height">530dp</dimen>
+    <dimen name="dialog_height_checkout">450dp</dimen>
+    <dimen name="dialog_height_database">300dp</dimen>
+    <dimen name="dialog_height_feedback">450dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
